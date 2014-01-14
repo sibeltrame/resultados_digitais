@@ -1,1 +1,1 @@
-Web page developed using the bootstrap framework
+Web page developed with bootstrap framework
